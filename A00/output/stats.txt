@@ -1,0 +1,5 @@
+Total Pixels = 172800
+Min Intensity Value = 0
+Max Intensity Value = 255
+Standard Deviation = 85.5666180393
+Mean Intensity Value = 168.845652006

@@ -1,0 +1,13 @@
+1. Psy-Filter: A modified contrast filter that allows overflow, causing the colors to warp.
+
+2. Spinning Filter: Filter spins video in circles, comes with buttons to increase/decrease spin speed
+
+3. Color Cycle Filter: Filter cycles the RGB colors over one with each keypress. ex: RBG -> BGR -> GRB -> RGB
+
+4. Energy Map Filter: Filter creates energy map
+
+5. Blur Filter: Creates frame delay to simulate blurring
+
+6. Invert Filter: Inverts the colors of the input
+
+7. Rorschach Filter (Extreme Contrast): Filter sets everything below threshold to black, everything above to white. Adjustable threshold with keypresses.
